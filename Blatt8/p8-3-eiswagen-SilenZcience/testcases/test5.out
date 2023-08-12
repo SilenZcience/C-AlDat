@@ -1,0 +1,568 @@
+[ 7 0 1 5 3 10 2 4 6 8 9 11 12 13 14 15 16 17 18 19          ][ size:  20 capacity:  22 ]
+********************************************
+7   | HEAD -> TAIL
+0   | HEAD -> 1 -> TAIL
+1   | HEAD -> TAIL
+5   | HEAD -> TAIL
+3   | HEAD -> TAIL
+10   | HEAD -> TAIL
+2   | HEAD -> TAIL
+4   | HEAD -> TAIL
+6   | HEAD -> TAIL
+8   | HEAD -> TAIL
+9   | HEAD -> TAIL
+11   | HEAD -> TAIL
+12   | HEAD -> TAIL
+13   | HEAD -> TAIL
+14   | HEAD -> TAIL
+15   | HEAD -> TAIL
+16   | HEAD -> TAIL
+17   | HEAD -> TAIL
+18   | HEAD -> TAIL
+19   | HEAD -> TAIL
+********************************************
+7   | HEAD -> TAIL
+0   | HEAD -> 1 -> TAIL
+1   | HEAD -> 2 -> TAIL
+5   | HEAD -> TAIL
+3   | HEAD -> TAIL
+10   | HEAD -> TAIL
+2   | HEAD -> TAIL
+4   | HEAD -> TAIL
+6   | HEAD -> TAIL
+8   | HEAD -> TAIL
+9   | HEAD -> TAIL
+11   | HEAD -> TAIL
+12   | HEAD -> TAIL
+13   | HEAD -> TAIL
+14   | HEAD -> TAIL
+15   | HEAD -> TAIL
+16   | HEAD -> TAIL
+17   | HEAD -> TAIL
+18   | HEAD -> TAIL
+19   | HEAD -> TAIL
+********************************************
+7   | HEAD -> TAIL
+0   | HEAD -> 1 -> TAIL
+1   | HEAD -> 2 -> 3 -> TAIL
+5   | HEAD -> TAIL
+3   | HEAD -> TAIL
+10   | HEAD -> TAIL
+2   | HEAD -> TAIL
+4   | HEAD -> TAIL
+6   | HEAD -> TAIL
+8   | HEAD -> TAIL
+9   | HEAD -> TAIL
+11   | HEAD -> TAIL
+12   | HEAD -> TAIL
+13   | HEAD -> TAIL
+14   | HEAD -> TAIL
+15   | HEAD -> TAIL
+16   | HEAD -> TAIL
+17   | HEAD -> TAIL
+18   | HEAD -> TAIL
+19   | HEAD -> TAIL
+********************************************
+7   | HEAD -> TAIL
+0   | HEAD -> 1 -> TAIL
+1   | HEAD -> 2 -> TAIL
+5   | HEAD -> TAIL
+3   | HEAD -> TAIL
+10   | HEAD -> TAIL
+2   | HEAD -> TAIL
+4   | HEAD -> TAIL
+6   | HEAD -> TAIL
+8   | HEAD -> TAIL
+9   | HEAD -> TAIL
+11   | HEAD -> TAIL
+12   | HEAD -> TAIL
+13   | HEAD -> TAIL
+14   | HEAD -> TAIL
+15   | HEAD -> TAIL
+16   | HEAD -> TAIL
+17   | HEAD -> TAIL
+18   | HEAD -> TAIL
+19   | HEAD -> TAIL
+********************************************
+7   | HEAD -> TAIL
+0   | HEAD -> 1 -> TAIL
+1   | HEAD -> 2 -> TAIL
+5   | HEAD -> TAIL
+3   | HEAD -> TAIL
+10   | HEAD -> TAIL
+2   | HEAD -> 3 -> TAIL
+4   | HEAD -> TAIL
+6   | HEAD -> TAIL
+8   | HEAD -> TAIL
+9   | HEAD -> TAIL
+11   | HEAD -> TAIL
+12   | HEAD -> TAIL
+13   | HEAD -> TAIL
+14   | HEAD -> TAIL
+15   | HEAD -> TAIL
+16   | HEAD -> TAIL
+17   | HEAD -> TAIL
+18   | HEAD -> TAIL
+19   | HEAD -> TAIL
+********************************************
+7   | HEAD -> TAIL
+0   | HEAD -> 1 -> TAIL
+1   | HEAD -> 2 -> TAIL
+5   | HEAD -> TAIL
+3   | HEAD -> 4 -> TAIL
+10   | HEAD -> TAIL
+2   | HEAD -> 3 -> TAIL
+4   | HEAD -> TAIL
+6   | HEAD -> TAIL
+8   | HEAD -> TAIL
+9   | HEAD -> TAIL
+11   | HEAD -> TAIL
+12   | HEAD -> TAIL
+13   | HEAD -> TAIL
+14   | HEAD -> TAIL
+15   | HEAD -> TAIL
+16   | HEAD -> TAIL
+17   | HEAD -> TAIL
+18   | HEAD -> TAIL
+19   | HEAD -> TAIL
+********************************************
+7   | HEAD -> TAIL
+0   | HEAD -> 1 -> TAIL
+1   | HEAD -> 2 -> TAIL
+5   | HEAD -> TAIL
+3   | HEAD -> 4 -> TAIL
+10   | HEAD -> TAIL
+2   | HEAD -> 3 -> TAIL
+4   | HEAD -> 5 -> TAIL
+6   | HEAD -> TAIL
+8   | HEAD -> TAIL
+9   | HEAD -> TAIL
+11   | HEAD -> TAIL
+12   | HEAD -> TAIL
+13   | HEAD -> TAIL
+14   | HEAD -> TAIL
+15   | HEAD -> TAIL
+16   | HEAD -> TAIL
+17   | HEAD -> TAIL
+18   | HEAD -> TAIL
+19   | HEAD -> TAIL
+********************************************
+7   | HEAD -> TAIL
+0   | HEAD -> 1 -> TAIL
+1   | HEAD -> 2 -> TAIL
+5   | HEAD -> 7 -> TAIL
+3   | HEAD -> 4 -> TAIL
+10   | HEAD -> TAIL
+2   | HEAD -> 3 -> TAIL
+4   | HEAD -> 5 -> TAIL
+6   | HEAD -> TAIL
+8   | HEAD -> TAIL
+9   | HEAD -> TAIL
+11   | HEAD -> TAIL
+12   | HEAD -> TAIL
+13   | HEAD -> TAIL
+14   | HEAD -> TAIL
+15   | HEAD -> TAIL
+16   | HEAD -> TAIL
+17   | HEAD -> TAIL
+18   | HEAD -> TAIL
+19   | HEAD -> TAIL
+********************************************
+7   | HEAD -> TAIL
+0   | HEAD -> 1 -> TAIL
+1   | HEAD -> 2 -> TAIL
+5   | HEAD -> 6 -> 7 -> TAIL
+3   | HEAD -> 4 -> TAIL
+10   | HEAD -> TAIL
+2   | HEAD -> 3 -> TAIL
+4   | HEAD -> 5 -> TAIL
+6   | HEAD -> TAIL
+8   | HEAD -> TAIL
+9   | HEAD -> TAIL
+11   | HEAD -> TAIL
+12   | HEAD -> TAIL
+13   | HEAD -> TAIL
+14   | HEAD -> TAIL
+15   | HEAD -> TAIL
+16   | HEAD -> TAIL
+17   | HEAD -> TAIL
+18   | HEAD -> TAIL
+19   | HEAD -> TAIL
+********************************************
+7   | HEAD -> TAIL
+0   | HEAD -> 1 -> TAIL
+1   | HEAD -> 2 -> TAIL
+5   | HEAD -> 6 -> 7 -> TAIL
+3   | HEAD -> 4 -> TAIL
+10   | HEAD -> TAIL
+2   | HEAD -> 3 -> TAIL
+4   | HEAD -> 5 -> TAIL
+6   | HEAD -> 7 -> TAIL
+8   | HEAD -> TAIL
+9   | HEAD -> TAIL
+11   | HEAD -> TAIL
+12   | HEAD -> TAIL
+13   | HEAD -> TAIL
+14   | HEAD -> TAIL
+15   | HEAD -> TAIL
+16   | HEAD -> TAIL
+17   | HEAD -> TAIL
+18   | HEAD -> TAIL
+19   | HEAD -> TAIL
+********************************************
+7   | HEAD -> TAIL
+0   | HEAD -> 1 -> TAIL
+1   | HEAD -> 2 -> TAIL
+5   | HEAD -> 6 -> TAIL
+3   | HEAD -> 4 -> TAIL
+10   | HEAD -> TAIL
+2   | HEAD -> 3 -> TAIL
+4   | HEAD -> 5 -> TAIL
+6   | HEAD -> 7 -> TAIL
+8   | HEAD -> TAIL
+9   | HEAD -> TAIL
+11   | HEAD -> TAIL
+12   | HEAD -> TAIL
+13   | HEAD -> TAIL
+14   | HEAD -> TAIL
+15   | HEAD -> TAIL
+16   | HEAD -> TAIL
+17   | HEAD -> TAIL
+18   | HEAD -> TAIL
+19   | HEAD -> TAIL
+********************************************
+7   | HEAD -> 8 -> TAIL
+0   | HEAD -> 1 -> TAIL
+1   | HEAD -> 2 -> TAIL
+5   | HEAD -> 6 -> TAIL
+3   | HEAD -> 4 -> TAIL
+10   | HEAD -> TAIL
+2   | HEAD -> 3 -> TAIL
+4   | HEAD -> 5 -> TAIL
+6   | HEAD -> 7 -> TAIL
+8   | HEAD -> TAIL
+9   | HEAD -> TAIL
+11   | HEAD -> TAIL
+12   | HEAD -> TAIL
+13   | HEAD -> TAIL
+14   | HEAD -> TAIL
+15   | HEAD -> TAIL
+16   | HEAD -> TAIL
+17   | HEAD -> TAIL
+18   | HEAD -> TAIL
+19   | HEAD -> TAIL
+********************************************
+7   | HEAD -> 8 -> TAIL
+0   | HEAD -> 1 -> TAIL
+1   | HEAD -> 2 -> TAIL
+5   | HEAD -> 6 -> TAIL
+3   | HEAD -> 4 -> TAIL
+10   | HEAD -> TAIL
+2   | HEAD -> 3 -> TAIL
+4   | HEAD -> 5 -> TAIL
+6   | HEAD -> 7 -> TAIL
+8   | HEAD -> 9 -> TAIL
+9   | HEAD -> TAIL
+11   | HEAD -> TAIL
+12   | HEAD -> TAIL
+13   | HEAD -> TAIL
+14   | HEAD -> TAIL
+15   | HEAD -> TAIL
+16   | HEAD -> TAIL
+17   | HEAD -> TAIL
+18   | HEAD -> TAIL
+19   | HEAD -> TAIL
+********************************************
+7   | HEAD -> 8 -> TAIL
+0   | HEAD -> 1 -> TAIL
+1   | HEAD -> 2 -> TAIL
+5   | HEAD -> 6 -> TAIL
+3   | HEAD -> 4 -> TAIL
+10   | HEAD -> TAIL
+2   | HEAD -> 3 -> TAIL
+4   | HEAD -> 5 -> TAIL
+6   | HEAD -> 7 -> TAIL
+8   | HEAD -> 9 -> TAIL
+9   | HEAD -> 10 -> TAIL
+11   | HEAD -> TAIL
+12   | HEAD -> TAIL
+13   | HEAD -> TAIL
+14   | HEAD -> TAIL
+15   | HEAD -> TAIL
+16   | HEAD -> TAIL
+17   | HEAD -> TAIL
+18   | HEAD -> TAIL
+19   | HEAD -> TAIL
+********************************************
+7   | HEAD -> 8 -> TAIL
+0   | HEAD -> 1 -> TAIL
+1   | HEAD -> 2 -> TAIL
+5   | HEAD -> 6 -> TAIL
+3   | HEAD -> 4 -> TAIL
+10   | HEAD -> 19 -> TAIL
+2   | HEAD -> 3 -> TAIL
+4   | HEAD -> 5 -> TAIL
+6   | HEAD -> 7 -> TAIL
+8   | HEAD -> 9 -> TAIL
+9   | HEAD -> 10 -> TAIL
+11   | HEAD -> TAIL
+12   | HEAD -> TAIL
+13   | HEAD -> TAIL
+14   | HEAD -> TAIL
+15   | HEAD -> TAIL
+16   | HEAD -> TAIL
+17   | HEAD -> TAIL
+18   | HEAD -> TAIL
+19   | HEAD -> TAIL
+********************************************
+7   | HEAD -> 8 -> TAIL
+0   | HEAD -> 1 -> TAIL
+1   | HEAD -> 2 -> TAIL
+5   | HEAD -> 6 -> TAIL
+3   | HEAD -> 4 -> TAIL
+10   | HEAD -> TAIL
+2   | HEAD -> 3 -> TAIL
+4   | HEAD -> 5 -> TAIL
+6   | HEAD -> 7 -> TAIL
+8   | HEAD -> 9 -> TAIL
+9   | HEAD -> 10 -> TAIL
+11   | HEAD -> TAIL
+12   | HEAD -> TAIL
+13   | HEAD -> TAIL
+14   | HEAD -> TAIL
+15   | HEAD -> TAIL
+16   | HEAD -> TAIL
+17   | HEAD -> TAIL
+18   | HEAD -> TAIL
+19   | HEAD -> TAIL
+********************************************
+7   | HEAD -> 8 -> TAIL
+0   | HEAD -> 1 -> TAIL
+1   | HEAD -> 2 -> TAIL
+5   | HEAD -> 6 -> TAIL
+3   | HEAD -> 4 -> TAIL
+10   | HEAD -> 11 -> TAIL
+2   | HEAD -> 3 -> TAIL
+4   | HEAD -> 5 -> TAIL
+6   | HEAD -> 7 -> TAIL
+8   | HEAD -> 9 -> TAIL
+9   | HEAD -> 10 -> TAIL
+11   | HEAD -> TAIL
+12   | HEAD -> TAIL
+13   | HEAD -> TAIL
+14   | HEAD -> TAIL
+15   | HEAD -> TAIL
+16   | HEAD -> TAIL
+17   | HEAD -> TAIL
+18   | HEAD -> TAIL
+19   | HEAD -> TAIL
+********************************************
+7   | HEAD -> 8 -> TAIL
+0   | HEAD -> 1 -> TAIL
+1   | HEAD -> 2 -> TAIL
+5   | HEAD -> 6 -> TAIL
+3   | HEAD -> 4 -> TAIL
+10   | HEAD -> 11 -> TAIL
+2   | HEAD -> 3 -> TAIL
+4   | HEAD -> 5 -> TAIL
+6   | HEAD -> 7 -> TAIL
+8   | HEAD -> 9 -> TAIL
+9   | HEAD -> 10 -> TAIL
+11   | HEAD -> 12 -> TAIL
+12   | HEAD -> TAIL
+13   | HEAD -> TAIL
+14   | HEAD -> TAIL
+15   | HEAD -> TAIL
+16   | HEAD -> TAIL
+17   | HEAD -> TAIL
+18   | HEAD -> TAIL
+19   | HEAD -> TAIL
+********************************************
+7   | HEAD -> 8 -> TAIL
+0   | HEAD -> 1 -> TAIL
+1   | HEAD -> 2 -> TAIL
+5   | HEAD -> 6 -> TAIL
+3   | HEAD -> 4 -> TAIL
+10   | HEAD -> 11 -> TAIL
+2   | HEAD -> 3 -> TAIL
+4   | HEAD -> 5 -> TAIL
+6   | HEAD -> 7 -> TAIL
+8   | HEAD -> 9 -> TAIL
+9   | HEAD -> 10 -> TAIL
+11   | HEAD -> 12 -> TAIL
+12   | HEAD -> 13 -> TAIL
+13   | HEAD -> TAIL
+14   | HEAD -> TAIL
+15   | HEAD -> TAIL
+16   | HEAD -> TAIL
+17   | HEAD -> TAIL
+18   | HEAD -> TAIL
+19   | HEAD -> TAIL
+********************************************
+7   | HEAD -> 8 -> TAIL
+0   | HEAD -> 1 -> TAIL
+1   | HEAD -> 2 -> TAIL
+5   | HEAD -> 6 -> TAIL
+3   | HEAD -> 4 -> TAIL
+10   | HEAD -> 11 -> TAIL
+2   | HEAD -> 3 -> TAIL
+4   | HEAD -> 5 -> TAIL
+6   | HEAD -> 7 -> TAIL
+8   | HEAD -> 9 -> TAIL
+9   | HEAD -> 10 -> TAIL
+11   | HEAD -> 12 -> TAIL
+12   | HEAD -> 13 -> TAIL
+13   | HEAD -> 14 -> TAIL
+14   | HEAD -> TAIL
+15   | HEAD -> TAIL
+16   | HEAD -> TAIL
+17   | HEAD -> TAIL
+18   | HEAD -> TAIL
+19   | HEAD -> TAIL
+********************************************
+7   | HEAD -> 8 -> TAIL
+0   | HEAD -> 1 -> TAIL
+1   | HEAD -> 2 -> TAIL
+5   | HEAD -> 6 -> TAIL
+3   | HEAD -> 4 -> TAIL
+10   | HEAD -> 11 -> TAIL
+2   | HEAD -> 3 -> TAIL
+4   | HEAD -> 5 -> TAIL
+6   | HEAD -> 7 -> TAIL
+8   | HEAD -> 9 -> TAIL
+9   | HEAD -> 10 -> TAIL
+11   | HEAD -> 12 -> TAIL
+12   | HEAD -> 13 -> TAIL
+13   | HEAD -> 14 -> TAIL
+14   | HEAD -> 15 -> TAIL
+15   | HEAD -> TAIL
+16   | HEAD -> TAIL
+17   | HEAD -> TAIL
+18   | HEAD -> TAIL
+19   | HEAD -> TAIL
+********************************************
+7   | HEAD -> 8 -> TAIL
+0   | HEAD -> 1 -> TAIL
+1   | HEAD -> 2 -> TAIL
+5   | HEAD -> 6 -> TAIL
+3   | HEAD -> 4 -> TAIL
+10   | HEAD -> 11 -> TAIL
+2   | HEAD -> 3 -> TAIL
+4   | HEAD -> 5 -> TAIL
+6   | HEAD -> 7 -> TAIL
+8   | HEAD -> 9 -> TAIL
+9   | HEAD -> 10 -> TAIL
+11   | HEAD -> 12 -> TAIL
+12   | HEAD -> 13 -> TAIL
+13   | HEAD -> 14 -> TAIL
+14   | HEAD -> 15 -> TAIL
+15   | HEAD -> 16 -> TAIL
+16   | HEAD -> TAIL
+17   | HEAD -> TAIL
+18   | HEAD -> TAIL
+19   | HEAD -> TAIL
+********************************************
+7   | HEAD -> 8 -> TAIL
+0   | HEAD -> 1 -> TAIL
+1   | HEAD -> 2 -> TAIL
+5   | HEAD -> 6 -> TAIL
+3   | HEAD -> 4 -> TAIL
+10   | HEAD -> 11 -> TAIL
+2   | HEAD -> 3 -> TAIL
+4   | HEAD -> 5 -> TAIL
+6   | HEAD -> 7 -> TAIL
+8   | HEAD -> 9 -> TAIL
+9   | HEAD -> 10 -> TAIL
+11   | HEAD -> 12 -> TAIL
+12   | HEAD -> 13 -> TAIL
+13   | HEAD -> 14 -> TAIL
+14   | HEAD -> 15 -> TAIL
+15   | HEAD -> 16 -> TAIL
+16   | HEAD -> 17 -> TAIL
+17   | HEAD -> TAIL
+18   | HEAD -> TAIL
+19   | HEAD -> TAIL
+********************************************
+7   | HEAD -> 8 -> TAIL
+0   | HEAD -> 1 -> TAIL
+1   | HEAD -> 2 -> TAIL
+5   | HEAD -> 6 -> TAIL
+3   | HEAD -> 4 -> TAIL
+10   | HEAD -> 11 -> TAIL
+2   | HEAD -> 3 -> TAIL
+4   | HEAD -> 5 -> TAIL
+6   | HEAD -> 7 -> TAIL
+8   | HEAD -> 9 -> TAIL
+9   | HEAD -> 10 -> TAIL
+11   | HEAD -> 12 -> TAIL
+12   | HEAD -> 13 -> TAIL
+13   | HEAD -> 14 -> TAIL
+14   | HEAD -> 15 -> TAIL
+15   | HEAD -> 16 -> TAIL
+16   | HEAD -> 17 -> TAIL
+17   | HEAD -> 18 -> TAIL
+18   | HEAD -> TAIL
+19   | HEAD -> TAIL
+********************************************
+7   | HEAD -> 8 -> TAIL
+0   | HEAD -> 1 -> TAIL
+1   | HEAD -> 2 -> TAIL
+5   | HEAD -> 6 -> TAIL
+3   | HEAD -> 4 -> TAIL
+10   | HEAD -> 11 -> TAIL
+2   | HEAD -> 3 -> TAIL
+4   | HEAD -> 5 -> TAIL
+6   | HEAD -> 7 -> TAIL
+8   | HEAD -> 9 -> TAIL
+9   | HEAD -> 10 -> TAIL
+11   | HEAD -> 12 -> TAIL
+12   | HEAD -> 13 -> TAIL
+13   | HEAD -> 14 -> TAIL
+14   | HEAD -> 15 -> TAIL
+15   | HEAD -> 16 -> TAIL
+16   | HEAD -> 17 -> TAIL
+17   | HEAD -> 18 -> TAIL
+18   | HEAD -> 19 -> TAIL
+19   | HEAD -> TAIL
+********************************************
+7   | HEAD -> 8 -> TAIL
+0   | HEAD -> 1 -> TAIL
+1   | HEAD -> 2 -> TAIL
+5   | HEAD -> 6 -> TAIL
+3   | HEAD -> 4 -> TAIL
+10   | HEAD -> 11 -> TAIL
+2   | HEAD -> 3 -> TAIL
+4   | HEAD -> 5 -> TAIL
+6   | HEAD -> 7 -> TAIL
+8   | HEAD -> 9 -> TAIL
+9   | HEAD -> 10 -> TAIL
+11   | HEAD -> 12 -> TAIL
+12   | HEAD -> 13 -> TAIL
+13   | HEAD -> 14 -> TAIL
+14   | HEAD -> 15 -> TAIL
+15   | HEAD -> 16 -> TAIL
+16   | HEAD -> 17 -> TAIL
+17   | HEAD -> 18 -> TAIL
+18   | HEAD -> 19 -> TAIL
+19   | HEAD -> 1 -> TAIL
+********************************************
+7   | HEAD -> 8 -> TAIL
+0   | HEAD -> 1 -> TAIL
+1   | HEAD -> 2 -> TAIL
+5   | HEAD -> 6 -> TAIL
+3   | HEAD -> 4 -> TAIL
+10   | HEAD -> 11 -> TAIL
+2   | HEAD -> 3 -> TAIL
+4   | HEAD -> 5 -> TAIL
+6   | HEAD -> 7 -> TAIL
+8   | HEAD -> 9 -> TAIL
+9   | HEAD -> 10 -> TAIL
+11   | HEAD -> 12 -> TAIL
+12   | HEAD -> 13 -> TAIL
+13   | HEAD -> 14 -> TAIL
+14   | HEAD -> 15 -> TAIL
+15   | HEAD -> 16 -> TAIL
+16   | HEAD -> 17 -> TAIL
+17   | HEAD -> 18 -> TAIL
+18   | HEAD -> 19 -> TAIL
+19   | HEAD -> TAIL

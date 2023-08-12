@@ -1,0 +1,50 @@
+digraph {
+	graph [ordering="out"];
+	100 -> 50;
+	100 -> 150;
+	50 -> 25;
+	50 -> 75;
+	25 -> 12;
+	25 -> 32;
+	null12l [shape="point"];
+	12 -> null12l;
+	null12r [shape="point"];
+	12 -> null12r;
+	null32l [shape="point"];
+	32 -> null32l;
+	null32r [shape="point"];
+	32 -> null32r;
+	null75l [shape="point"];
+	75 -> null75l;
+	null75r [shape="point"];
+	75 -> null75r;
+	null150l [shape="point"];
+	150 -> null150l;
+	null150r [shape="point"];
+	150 -> null150r;
+}
+digraph {
+	graph [ordering="out"];
+	50 -> 25;
+	50 -> 100;
+	25 -> 12;
+	25 -> 32;
+	null12l [shape="point"];
+	12 -> null12l;
+	null12r [shape="point"];
+	12 -> null12r;
+	null32l [shape="point"];
+	32 -> null32l;
+	null32r [shape="point"];
+	32 -> null32r;
+	100 -> 75;
+	100 -> 150;
+	null75l [shape="point"];
+	75 -> null75l;
+	null75r [shape="point"];
+	75 -> null75r;
+	null150l [shape="point"];
+	150 -> null150l;
+	null150r [shape="point"];
+	150 -> null150r;
+}

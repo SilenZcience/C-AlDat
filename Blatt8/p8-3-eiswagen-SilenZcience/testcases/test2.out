@@ -1,0 +1,26 @@
+[ 1 7 2 5                              ][ size:   4 capacity:  11 ]
+********************************************
+1   | HEAD -> 2 -> TAIL
+7   | HEAD -> TAIL
+2   | HEAD -> TAIL
+5   | HEAD -> TAIL
+********************************************
+1   | HEAD -> 2 -> TAIL
+7   | HEAD -> 1 -> TAIL
+2   | HEAD -> TAIL
+5   | HEAD -> TAIL
+********************************************
+1   | HEAD -> 2 -> TAIL
+7   | HEAD -> 1 -> TAIL
+2   | HEAD -> 5 -> TAIL
+5   | HEAD -> TAIL
+********************************************
+1   | HEAD -> 2 -> TAIL
+7   | HEAD -> 1 -> TAIL
+2   | HEAD -> 5 -> 7 -> TAIL
+5   | HEAD -> TAIL
+********************************************
+1   | HEAD -> 2 -> TAIL
+7   | HEAD -> 1 -> TAIL
+2   | HEAD -> 5 -> 7 -> TAIL
+5   | HEAD -> 2 -> TAIL

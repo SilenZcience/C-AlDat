@@ -1,0 +1,31 @@
+Queue: 200 
+Queue: 200 50 
+Queue: 200 50 300 
+Queue: 200 50 23 300 
+Queue: 200 50 23 25 300 
+Queue: 200 50 23 25 30 300 
+Queue: 200 50 23 25 30 60 300 
+Queue: 200 30 23 25 60 80 300 
+Min: 23
+Queue: 200 30 25 60 80 300 
+Queue: 200 30 25 60 42 80 300 
+Max: 300
+Queue: 200 30 25 60 42 80 
+Min: 25
+Queue: 200 30 60 42 80 
+Min: 30
+Queue: 200 60 42 80 
+Min: 42
+Queue: 200 60 80 
+Min: 60
+Queue: 200 80 
+Max: 200
+Queue: 80 
+Queue: 80 10 
+Queue: 80 10 2 
+Max: 80
+Queue: 10 2 
+Min: 2
+Queue: 10 
+Max: 10
+Queue: 

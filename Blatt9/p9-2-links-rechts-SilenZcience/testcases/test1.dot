@@ -1,0 +1,26 @@
+digraph {
+	graph [ordering="out"];
+	3 -> 2;
+	null3r [shape="point"];
+	3 -> null3r;
+	2 -> 1;
+	null2r [shape="point"];
+	2 -> null2r;
+	null1l [shape="point"];
+	1 -> null1l;
+	null1r [shape="point"];
+	1 -> null1r;
+}
+digraph {
+	graph [ordering="out"];
+	2 -> 1;
+	2 -> 3;
+	null1l [shape="point"];
+	1 -> null1l;
+	null1r [shape="point"];
+	1 -> null1r;
+	null3l [shape="point"];
+	3 -> null3l;
+	null3r [shape="point"];
+	3 -> null3r;
+}
